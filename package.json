@@ -1,5 +1,6 @@
 {
-  "name": "vbella_admin",
+  "homepage": "http://mararcz.github.io/admin_panel/",
+  "name": "admin_panel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
